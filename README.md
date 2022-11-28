@@ -1,9 +1,9 @@
-- 👋 Hi, my name is Rich and I go by @iotdetective
-- 👀 I’m interested in law enforcement, online investigations, OSINT techniques, technology, and cybersecurity.
+- 👋 Hi, my name is Rich, I'm an investigator in a local small town in northern New Hampshire, I go by iotdetective.
+- 👀 I’m interested in topics such as law enforcement, online investigations, OSINT techniques, technology, and cybersecurity.
 - 🌱 I’m currently learning PGP, Linux, Markdown, Information Technology, Mobile Forensics.
-- 💞️ I’m looking to collaborate on anything technology, LE or OSINT related.
-- 📫 How to reach me - rich@iotdetective.net
-- Website, build with HUGO and Markdown and hosted on GitHub Pages: https://iotdetective.net
+- 💞️ I’m looking to collaborate on anything technology or OSINT related.
+- 📫 How to reach me - <a hred=mailto:rich@iotdetective.net>rich@iotdetective.net</a>
+- My web blog was build with HUGO using Markdown and is hosted on GitHub Pages at: https://iotdetective.net
 - Keybase.io: https://keybase.io/iotdetective
 - Twitter: @iotdetective
 ---
