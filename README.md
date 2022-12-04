@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything technology or OSINT related.
 - 📫 How to reach me - <a hred=mailto:rich@iotdetective.net>rich@iotdetective.net</a>
 - My web blog was build with HUGO using Markdown and is hosted on GitHub Pages at: https://iotdetective.net
-- Keybase.io: https://keybase.io/iotdetective
+- Keybase.io: https://keybase.io/richiotdetective
 - Twitter: @iotdetective
 ---
 ```
