@@ -1,11 +1,14 @@
+# Who am I?
 - 👋 Hi, my name is Rich, I'm an investigator in a local small town in northern New Hampshire, I go by iotdetective.
 - 👀 I’m interested in topics such as law enforcement, online investigations, OSINT techniques, technology, and cybersecurity.
-- 🌱 I’m currently learning PGP, Linux, Markdown, Information Technology, Mobile Forensics.
-- 💞️ I’m looking to collaborate on anything technology or OSINT related.
-- 📫 How to reach me - <a hred=mailto:rich@iotdetective.net>rich@iotdetective.net</a>
-- My web blog was build with HUGO using Markdown and is hosted on GitHub Pages at: https://iotdetective.net
+- 🌱 I’m currently learning PGP, Linux, Markdown, Information Technology, and Mobile Forensics.
+- 💞️ I’m looking to collaborate on anything technology, crime, or OSINT related.
+- 📫 How to reach me - <a href=mailto:rich@iotdetective.net>rich@iotdetective.net</a>
+- My personal web blog was build with HUGO using Markdown and is hosted on GitHub Pages at: https://iotdetective.net
 - Keybase.io: https://keybase.io/richiotdetective
+- LinkedIn: https://www.linkedin.com/in/richard-theberge/
 - Twitter: @iotdetective
+# PGP Key:
 ---
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
