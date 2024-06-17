@@ -3,10 +3,10 @@
 - 👀 I’m interested in topics such as law enforcement, online investigations, OSINT techniques, technology, and cybersecurity.
 - 🌱 I’m currently learning Security+, PGP, Linux, Markdown, Information Technology, and Mobile Forensics.
 - 💞️ I’m looking to collaborate on anything technology, crime, or OSINT related.
-- 📫 How to reach me - <a href=mailto:rich@nhle.info>rich@nhle.info</a>
+- 📫 How to reach me - <a href=mailto:rich@iotdetective.net>rich@iotdetective.net</a>
 - My personal web blog was build with HUGO using Markdown and is hosted on GitHub Pages at: https://iotdetective.net
 - My work related blog built with Ghost can be located at: https://nhle.info
-- My NH law enforcement Wiki.js page: https://wiki.nhle.info 
+- My NH law enforcement resources page: https://resources.iotdetective.net 
 - Keybase.io: https://keybase.io/richiotdetective
 - LinkedIn: https://www.linkedin.com/in/richard-theberge/
 - Twitter: @iotdetective
